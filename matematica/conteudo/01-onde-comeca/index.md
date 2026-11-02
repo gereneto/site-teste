@@ -121,3 +121,7 @@ Em outras línguas:
 - Pica, Lemer, Izard e Dehaene, "Exact and approximate arithmetic in an Amazonian indigene group", *Science*, 2004.
 
 > Datas e interpretações devem ser conferidas nas fontes antes de entrarem no texto final.
+
+## Continuação
+
+O primeiro ponto, o senso numérico, foi explorado em largura no [Estudo 2](/matematica/senso-numerico/).
