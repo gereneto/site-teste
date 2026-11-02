@@ -1,4 +1,4 @@
-# Estudo 1 — Onde começa a história da matemática?
+# Onde começa a história da matemática?
 
 ## O problema
 
